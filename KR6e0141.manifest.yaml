@@ -1,0 +1,42 @@
+canonical_identifier: bkk:krp/KR6e0141/v1
+canonical_location: https://kanripo.org/bkk/KR6e0141/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 華嚴大意
+  identifiers:
+    alt_id:
+    - X58n1023
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X58/X58n1023.xml
+    old_id: X58n1023
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6e0141_000.yaml, hash: 'sha256:502ee15b8ae6bc0649102753c96b1fe514c929a0945daf693abd8025d300d3a3'}
+  - {seq: 1, filename: KR6e0141_001.yaml, hash: 'sha256:761f1a2aa3e02d75000cf0ed1a88b54d6a280d6767bee8e2f233454677594d5d'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6e0141_001.markers.yaml, hash: 'sha256:67d23ce29b995d5769b73821b22b326ed12f5871d3068e0b3a08f48ff1bee954'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6e0141_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 1988
+  label: 華嚴大意
+  type: juan
+  level: 1
+hash: sha256:f02832f014c79ef1c073bf9546519a26730077425834705e07b93ad2e51c9c48
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

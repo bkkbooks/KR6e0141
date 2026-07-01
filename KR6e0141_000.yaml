@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6e0141/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 華嚴大意
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X58/X58n1023.xml
+    old_id: X58n1023
+hash: sha256:502ee15b8ae6bc0649102753c96b1fe514c929a0945daf693abd8025d300d3a3

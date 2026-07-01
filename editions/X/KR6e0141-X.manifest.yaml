@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6e0141/X/v1
+canonical_location: https://kanripo.org/bkk/KR6e0141/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 華嚴大意
+  identifiers:
+    krp: KR6e0141
+    cbeta: X58n1023
+    cbeta_old_id: X58n1023
+    authorityid: CA0001358
+    json_key: X1023
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X58/X58n1023.xml
+    old_id: X58n1023
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6e0141_000-X.yaml, hash: 'sha256:502ee15b8ae6bc0649102753c96b1fe514c929a0945daf693abd8025d300d3a3'}
+  - {seq: 1, filename: KR6e0141_001-X.yaml, hash: 'sha256:3335872af40df12f79dd9a2a695c22872aaf855fc623b98403fb3c33b7ec05bf'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6e0141_000-X.markers.yaml, hash: 'sha256:b0e89acea58a441b94736bfb8b44dcb2ca3f912a0260c121b3a0e43b06003f4f'}
+  - {seq: 1, role: markers, filename: assets/KR6e0141_001-X.markers.yaml, hash: 'sha256:89b3de78758c3fa85c13268072f95fc513a58e71045159532a25149148cdc340'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6e0141_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 1988
+  label: 華嚴大意
+  type: juan
+  level: 1
+hash: sha256:4f74e29c3c4b61361f7ea8a0d6b0f8c5264d23fe31a99212ba252f4912f2f1f9
